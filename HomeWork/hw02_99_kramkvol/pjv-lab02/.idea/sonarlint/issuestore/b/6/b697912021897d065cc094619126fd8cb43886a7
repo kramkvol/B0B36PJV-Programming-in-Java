@@ -1,0 +1,22 @@
+
+y
+java:S1192J"WDefine a constant instead of duplicating this literal "End of input detected!" 3 times.(‰Š¦øÿÿÿÿ8½…Å›â1
+„
+java:S1319"gThe type of "numbers" should be an interface such as "List" rather than the implementation "ArrayList".(æÉ¢‰8À…Å›â1
+‰
+java:S1319"gThe type of "numbers" should be an interface such as "List" rather than the implementation "ArrayList".(ŠØÏ¹ûÿÿÿÿ8À…Å›â1
+
+java:S1319#"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¨Ğù 8Á…Å›â1
+`
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(»äŒâüÿÿÿÿ8¥‘Å›â1
+E	java:S108+")Either remove or fill this block of code.( áÅÍ8Æ‘Å›â1
+o
+java:S37763"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Û†•®8Ê‘Å›â1
+H
+java:S11723"+Remove this unused method parameter "args".(Û†•®8Ï‘Å›â1
+L	java:S106="+Replace this use of System.err by a logger.(å›¹şÿÿÿÿ8Ù‘Å›â1
+G	java:S106I"+Replace this use of System.out by a logger.(»¡ÀÔ8ã‘Å›â1
+L	java:S106J"+Replace this use of System.err by a logger.(‰Š¦øÿÿÿÿ8æ‘Å›â1
+L	java:S106M"+Replace this use of System.err by a logger.(‰Š¦øÿÿÿÿ8è‘Å›â1
+G	java:S106P"+Replace this use of System.out by a logger.(úÅÒ8ê‘Å›â1
+L	java:S106R"+Replace this use of System.err by a logger.(‰Š¦øÿÿÿÿ8í‘Å›â1
