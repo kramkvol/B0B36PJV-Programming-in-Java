@@ -1,0 +1,6 @@
+
+	java:S112i"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ôÖš„ù1J$d481a822-2bdc-4668-a62e-a96b2370781b
+œ
+java:S1450"YRemove the "timeString" field and declare it as a local variable in the relevant methods.(ìœÈ8­×š„ù1J$f62b6c77-3f7b-40be-8bcc-2be99e73011b
+¡
+java:S2142h"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ã×š„ù1J$8974878f-0171-4b4c-b2be-2e71a534589b

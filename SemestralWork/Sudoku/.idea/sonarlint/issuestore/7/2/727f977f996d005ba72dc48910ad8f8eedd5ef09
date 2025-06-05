@@ -1,0 +1,45 @@
+
+¢
+java:S1104"_Make currentPrimaryStage a static final constant or non-public and provide accessors if needed.(÷²ë8¿÷¶Ÿü1J$de954d89-69af-4b62-bf0c-8a34c3126182
+Ÿ
+java:S1104"WMake currentRoot a static final constant or non-public and provide accessors if needed.(¬Âã¥ûÿÿÿÿ8Â÷¶Ÿü1J$b40fefa8-28b6-4e35-af43-f7b75ad7128f
+¢
+java:S1104'"_Make levelsInModeClassic a static final constant or non-public and provide accessors if needed.(ÃÕÏ8ï¤‚³ü1J$7c354ab7-75a1-4e59-9a76-d6148481109f
+¦
+java:S1104("^Make levelsInModeKiller a static final constant or non-public and provide accessors if needed.(Ö¼½Êüÿÿÿÿ8È÷¶Ÿü1J$d20f85f2-f8cd-4849-9af0-7bf02601e990
+¦
+java:S1104)"cMake createFiledClassicChild a static final constant or non-public and provide accessors if needed.(î¦…8Ë÷¶Ÿü1J$4b113476-91f3-420d-976e-0d07492d781c
+ª
+java:S1104*"bMake createFiledKillerChild a static final constant or non-public and provide accessors if needed.(¸›•üÿÿÿÿ8Î÷¶Ÿü1J$db46758d-463a-4669-a44c-55b3768589ed
+œ
+java:S1104+"TMake mainMenu a static final constant or non-public and provide accessors if needed.(£‰­æÿÿÿÿÿ8Ó÷¶Ÿü1J$a68ad2c3-4a2f-4d15-ab84-51e0b4ec775e
+“
+java:S1104."PMake logs a static final constant or non-public and provide accessors if needed.(ñå˜8ö¤‚³ü1J$1f01314a-97f8-4572-83d4-2a154deb9a17
+¥
+java:S1104/"bMake gameModeButtonsVisible a static final constant or non-public and provide accessors if needed.(ì¶ÈØ8×÷¶Ÿü1J$3f21725b-f100-4515-846f-97fdce34680b
+”
+java:S11041"QMake cells a static final constant or non-public and provide accessors if needed.(†ùŠÅ8Ğà¯Ïü1J$15f3b1dd-0e71-421c-b46e-3b6aec0fce91
+|
+java:S1444"9Make this "public static currentPrimaryStage" field final(÷²ë8Û÷¶Ÿü1J$aa07e7e0-15d4-4212-88f2-95a757ff334d
+y
+java:S1444"1Make this "public static currentRoot" field final(¬Âã¥ûÿÿÿÿ8Û÷¶Ÿü1J$55d17381-8905-45d1-9827-409684b992f4
+|
+java:S1444'"9Make this "public static levelsInModeClassic" field final(ÃÕÏ8ú¤‚³ü1J$32b19a06-d4d6-4e5c-ba15-2b8bddc93315
+€
+java:S1444("8Make this "public static levelsInModeKiller" field final(Ö¼½Êüÿÿÿÿ8Ü÷¶Ÿü1J$69d8dea9-da8e-462c-afdd-dcc05958b5d2
+€
+java:S1444)"=Make this "public static createFiledClassicChild" field final(î¦…8à÷¶Ÿü1J$86cb3382-3a32-4baf-b43e-2579e7643493
+„
+java:S1444*"<Make this "public static createFiledKillerChild" field final(¸›•üÿÿÿÿ8á÷¶Ÿü1J$8a05c9a6-cc48-4c35-a53a-d74f570d6eff
+v
+java:S1444+".Make this "public static mainMenu" field final(£‰­æÿÿÿÿÿ8â÷¶Ÿü1J$e57650c7-a21b-43d2-b9b5-07557ce60e59
+m
+java:S1444."*Make this "public static logs" field final(ñå˜8†¥‚³ü1J$f159eca1-8e4c-49c2-a07e-c5c5bf88e86f
+
+java:S1444/"<Make this "public static gameModeButtonsVisible" field final(ì¶ÈØ8ä÷¶Ÿü1J$772aac88-9127-4d29-a2a2-a9ad4c839272
+n
+java:S14441"+Make this "public static cells" field final(†ùŠÅ8áà¯Ïü1J$d306931a-9f75-4139-9fc0-2e63ff86fed3
+`
+java:S23861"Make this member "protected".(†ùŠÅ8òá¯Ïü1J$99e02c8c-fa46-4033-b230-f1e81b796da3
+~
+java:S2696e"6Make the enclosing method "static" or remove this set.(–ï’°ÿÿÿÿÿ8Ùã¯Ïü1J$236e9467-74eb-4773-a947-e25293b6ec99

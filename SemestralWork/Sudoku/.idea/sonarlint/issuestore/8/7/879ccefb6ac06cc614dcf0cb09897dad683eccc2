@@ -1,0 +1,12 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ĞÒ³ßûÿÿÿÿ8òúâ¬ü1J$fa6f612e-b6f7-4841-8b08-f840eb9fcea1
+
+java:S2259\"FA "NullPointerException" could be thrown; "getCell()" can return null.(ØàÎøÿÿÿÿ8™ÿâ¬ü1J$289774cd-0f88-4472-a3ee-b22cd7a973ce
+„
+java:S2259p"BA "NullPointerException" could be thrown; "cell" is nullable here.(ÅƒË|8™ÿâ¬ü1J$4b36d851-91b2-49c3-84a9-8caa2b86d84f
+
+java:S2259\"FA "NullPointerException" could be thrown; "getCell()" can return null.(ØàÎøÿÿÿÿ8˜ÿâ¬ü1J$85ba4174-c7de-484a-a251-84d85216d4fc
+~
+java:S2696"6Make the enclosing method "static" or remove this set.(äùÏüÿÿÿÿ8Áÿâ¬ü1J$87c6f90f-0d38-4a41-a51f-6f111fd8bea5
+Š
+java:S1126Á"AReplace this if-then-else statement by a single return statement.(ŸñÌ«ûÿÿÿÿ8Òƒå¬ü1J$809c886c-829e-4738-9c26-62cd9d80dce8
