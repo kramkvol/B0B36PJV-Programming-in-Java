@@ -12,5 +12,7 @@ Summer Semester 2024 - tasks and Final Project for B0B36PJV Programming in Java
 
 [All documetation](https://github.com/kramkvol/CVUT_PJV/tree/main/SemestralWork/documentation)
 
+[Tests](https://github.com/kramkvol/B0B36PJV-Programming-in-Java/tree/main/SemestralWork/Sudoku/src/test/java)
+
 ## Links 
 [GitHub](https://github.com/kramkvol/CVUT_PJV)
