@@ -1,4 +1,5 @@
-# Summer Semester 2024 - tasks and Final Project for B0B36PJV Programming in Java
+# B0B36PJV Programming in Java 
+Summer Semester 2024 - tasks and Final Project for B0B36PJV Programming in Java
 
 ## Tasks
 [tasks.pdf](https://github.com/kramkvol/CVUT_PJV/blob/main/HomeWork/tasks.pdf)
